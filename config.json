@@ -1,0 +1,21 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/pythonblog",
+    "prod_uri": "mysql://root:@localhost/pythonblog",
+    "tw_url": "https://twitter.com/pythonblog",
+    "fb_url": "https://facebook.com/pythonblog",
+    "gh_url": "https://github.com/pythonblog",
+    "blog_name": "Python Blog",
+    "tag_line": "Welcome to the data science club",
+    "gmail-user":"shubhamrawat8912@gmail.com",
+    "gmail-password":"hidden",
+    "about_text": "Hey it's me Shubham. Welcome to my website :-). This message is from config.json",
+    "no_of_posts": 2,
+    "login_image": "login-bg.svg",
+    "admin_user": "buggy",
+    "admin_password": "good",
+    "upload_location": "C:\\Users\\Shubham Rawat\\Desktop\\New folder\\Flask\\flask example 1\\files"
+  }
+}
